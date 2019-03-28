@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ICECAT-interface SYSTEM "http://data.icecat.biz/dtd/ICECAT-interface_response.dtd"><!-- source: Icecat.biz 2018 --><ICECAT-interface xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://data.icecat.biz/xsd/ICECAT-interface_response.xsd">
+    <Product Code="-1" ID="?0?" ErrorMessage="Link is not visible"  >
+        &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;\n&lt;!DOCTYPE ICECAT-interface SYSTEM &quot;http://data.icecat.biz/dtd/ICECAT-interface_response.dtd&quot;&gt;&lt;!-- source: Icecat.biz 2018 --&gt;&lt;ICECAT-interface xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xsi:noNamespaceSchemaLocation=&quot;http://data.icecat.biz/xsd/ICECAT-interface_response.xsd&quot;&gt;&lt;Product Code=&quot;-1&quot; ID=&quot;?0?&quot; ErrorMessage=&quot;Link is not visible&quot;  /&gt;&lt;/ICECAT-interface&gt;
+    </Product>
+</ICECAT-interface>

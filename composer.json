@@ -1,0 +1,16 @@
+{
+  "name": "ezsystems/ezcommerce-demo-assets",
+  "description": "Assets for ezsystems/ezcommerce",
+  "license": "TTL-2.0",
+  "authors": [
+    {
+      "name": "silver.solutions",
+      "homepage": "https://github.com/ezsystems/ezcommerce/graphs/contributors"
+    }
+  ],
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0.x-dev"
+    }
+  }
+}

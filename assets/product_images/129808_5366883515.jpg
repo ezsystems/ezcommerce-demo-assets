@@ -1,0 +1,15 @@
+HTTP/1.0 504 Gateway timeout: server response timeout
+Content-type: text/html; charset="iso-8859-1"
+
+<html>
+<body>
+<h3> Response denied by WatchGuard HTTP proxy. </h3>
+<b> Reason: </b> server response timeout <br>
+<hr size="1" noshade>
+<b> Method: </b> GET <br>
+<b> Host: </b> images.icecat.biz <br>
+<b> Path: </b> /img/gallery/129808_5366883515.jpg <br>
+<hr size="1" noshade>
+
+</body>
+                                                                                                                                                                                                                                                                                <!-- PAD --></html>
