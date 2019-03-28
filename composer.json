@@ -1,10 +1,10 @@
 {
   "name": "ezsystems/ezcommerce-demo-assets",
   "description": "Assets for ezsystems/ezcommerce",
-  "license": "TTL-2.0",
+  "license": "OPL-1.0",
   "authors": [
     {
-      "name": "silver.solutions",
+      "name": "eZ Platform dev team",
       "homepage": "https://github.com/ezsystems/ezcommerce/graphs/contributors"
     }
   ],
